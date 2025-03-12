@@ -45,6 +45,7 @@ export default App;
 
 2. useEffect
    <https://school.webcademy.ru/pl/teach/control/lesson/view?id=247731053>
+
    useEffect(setup, dependencies?)
    <https://react.dev/reference/react/useEffect>
 
